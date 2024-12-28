@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore dataset files
+data/titanic.csv
+data/preprocessed_titanic.csv
+
+
 # Distribution / packaging
 .Python
 build/
