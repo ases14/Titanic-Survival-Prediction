@@ -66,7 +66,7 @@ This project aims to predict the survival of passengers aboard the Titanic using
    - **Precision & Recall**: Demonstrated strong precision and recall for both classes, highlighting the model's reliability.  
 
 2. **Confusion Matrix**  
-              precision    recall  f1-score   support  
+                          precision    recall  f1-score   support  
       0       0.94      0.91      0.93       105  
       1       0.88      0.92      0.90        74  
 
